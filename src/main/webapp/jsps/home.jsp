@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <marquee> <h1> WELCOME TO devops </h1>    </marquee> 
+    <marquee> <h1> WELCOME TO devops , This is awesome course to learn </h1>    </marquee> 
     <h3>Training | Development | Consulting</h3>
 </header>
 
